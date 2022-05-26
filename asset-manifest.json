@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sunggeonsin/movie_app_20190747.git/static/css/main.7ec79487.css",
-    "main.js": "/Sunggeonsin/movie_app_20190747.git/static/js/main.666dfa2e.js",
-    "index.html": "/Sunggeonsin/movie_app_20190747.git/index.html",
-    "main.7ec79487.css.map": "/Sunggeonsin/movie_app_20190747.git/static/css/main.7ec79487.css.map",
-    "main.666dfa2e.js.map": "/Sunggeonsin/movie_app_20190747.git/static/js/main.666dfa2e.js.map"
+    "main.css": "/movie_app_20190747.git/static/css/main.7ec79487.css",
+    "main.js": "/movie_app_20190747.git/static/js/main.666dfa2e.js",
+    "index.html": "/movie_app_20190747.git/index.html",
+    "main.7ec79487.css.map": "/movie_app_20190747.git/static/css/main.7ec79487.css.map",
+    "main.666dfa2e.js.map": "/movie_app_20190747.git/static/js/main.666dfa2e.js.map"
   },
   "entrypoints": [
     "static/css/main.7ec79487.css",
